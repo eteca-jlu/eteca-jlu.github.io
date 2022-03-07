@@ -237,7 +237,9 @@ section
 
 .home
 {
-	height: 433px;
+	/*KYan*/
+	/*height: 433px;*/
+	height: 400px;
 }
 .home_background
 {
@@ -353,7 +355,8 @@ section
 	font-family: 'Montserrat', sans-serif;
 	font-size: 24px;
 	font-weight: 700;
-	color: #FFFFFF;
+	/*KYan*/
+	color: #B0CFDE;
 	text-transform: uppercase;
 	margin-top: 1px;
 }
@@ -378,10 +381,11 @@ section
 }
 .main_nav_item a
 {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #FFFFFF;
+	/*KYan*/
+	color: #B0CFDE;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	-webkit-transition: all 200ms ease;
@@ -909,9 +913,9 @@ section
 
 .footer
 {
-	padding-top: 150px;
-	padding-bottom: 80px;
-	background: #07122c;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background: #0e1d41;
 }
 .footer_col_title
 {
